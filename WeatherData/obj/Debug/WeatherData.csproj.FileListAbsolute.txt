@@ -1,0 +1,6 @@
+C:\Users\Dilshan\Desktop\Project Repositary\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch01\04\Begin\WeatherData\bin\Debug\WeatherData.dll
+C:\Users\Dilshan\Desktop\Project Repositary\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch01\04\Begin\WeatherData\bin\Debug\WeatherData.pdb
+C:\Users\Dilshan\Desktop\Project Repositary\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.csprojAssemblyReference.cache
+C:\Users\Dilshan\Desktop\Project Repositary\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.csproj.CoreCompileInputs.cache
+C:\Users\Dilshan\Desktop\Project Repositary\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.dll
+C:\Users\Dilshan\Desktop\Project Repositary\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.pdb
